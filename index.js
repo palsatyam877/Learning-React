@@ -1,3 +1,6 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+
 ReactDOM.createRoot(document.getElementById("root")).render(React.createElement( "div" , {id : "parent"} , 
    [ 
     React.createElement("div" , {id : "child"} ,

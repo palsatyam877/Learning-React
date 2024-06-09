@@ -1,0 +1,30 @@
+1. The Carrot "^" in version of package.json tells the approx version of package intalled
+   like it can allow minor updates but it will not allow major updates
+
+2. The package-lock.json keeps track of exact version
+3. Transitive dependecies : Its dependecies for dependecies (tree baby ;)   
+4. Just like npm is used for managing/intalling the packages where as npx is 
+   used to execute the packages. 
+5. cdn links are not good way to bring react to our projects instead use npm i react raect-dom
+6. Parcel --> 
+    dev build
+    HMR = hot module replacemnt
+    File watching algo = written in C++
+    Caching - Faster build
+    Image optimization
+    faster build
+    Bundling
+    Minification
+    compressing
+    local server
+    consistent Hashing
+    Code splitting
+    Differential Bundling - support old browsers
+    Diagnostic
+    Error Handling
+    HTTPS
+    Tree Shaking
+    Diffrent dev and prod bundles
+    
+
+
