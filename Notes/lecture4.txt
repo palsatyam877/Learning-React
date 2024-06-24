@@ -1,0 +1,6 @@
+Passing a prop to a component is just like passing a argument to a function
+When you have to dynamically pass a data to a component you pass it as a prop
+
+Config Driven UI -> 
+    . UI is fuiled by the data that is coming from the backend
+    . UI can be manipulatd by the data that is being recieved on the front-end.

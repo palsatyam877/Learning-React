@@ -1,0 +1,13 @@
+JSX is not HTML
+JSX is HTML like or XML like synatx
+JSX got traspiled before it reaches JS Engine by - PARCEL -> Babel
+JSX => React.createElement => React Element JS-Object => HTMLELemnt(render) 
+if you have to give attributes to JSX you have to use camelCase.
+Two was of creating React Componenets
+    1. Class based Componenets
+    2. Funcional Componenets
+Componenets Compositiion
+    <div id = 'container'>
+         <Title></Title>
+         <h1 className='heading'> Har Har Mahadev </h1>
+    </div>    
